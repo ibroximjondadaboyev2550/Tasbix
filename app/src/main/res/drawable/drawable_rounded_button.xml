@@ -1,0 +1,14 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Tugma foni rangi -->
+    <solid android:color="#4CAF50" /> <!-- Yashil rang -->
+
+    <!-- Tugma burchaklarini yumaloqlash -->
+    <corners android:radius="30dp" />
+
+    <!-- Tugma chegarasi (optional) -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF" /> <!-- Oq rang chegarasi -->
+</shape>
